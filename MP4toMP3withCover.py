@@ -1,4 +1,4 @@
-cover_sec = input("请输入封面图提取时间(s):")
+cover_sec = input("请输入封面图提取时间/Input the time of cover picture(s):")
 
 import os
 import subprocess
